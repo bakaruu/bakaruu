@@ -45,6 +45,7 @@ I am a junior full stack / backend developer passionate about technology and inn
 - PostgreSQL
 - MongoDB
 - Directus
+- Firebase
 
 **Architectural Patterns:**
 - Microservices
