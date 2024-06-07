@@ -6,7 +6,7 @@
 
 I am a junior full stack / backend developer passionate about technology and innovation. Currently, I am expanding my knowledge in cybersecurity to become a well-rounded tech professional. I love learning and sharing my knowledge with the community.
 
-- **🔭 Currently working on:** [Highlighted Project](https://github.com/bakaruu/catium)
+- **🔭 Currently working on:** [Catium](https://github.com/bakaruu/catium)
 - **🌱 Learning:** Cybersecurity and Japanese
 - **👯 Looking to collaborate on:** Open source projects and tech startups
 - **💬 Ask me about:** Backend development, microservices, cybersecurity, and design patterns
@@ -65,7 +65,7 @@ I am a junior full stack / backend developer passionate about technology and inn
 
 ## 🌐 Find Me Online
 
-- [Personal Website](https://bakaru.dev)
+- [Bakaru.dev](https://bakaru.dev)
 
 ---
 
