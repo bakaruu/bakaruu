@@ -68,22 +68,6 @@ I am a junior full stack / backend developer passionate about technology and inn
 
 
 
-
-## 📫 Contact Me
-
-- **Email:** [arucastrof@gmail.com](mailto:arucastrof@gmail.com)
-- **LinkedIn:** [linkedin.com/in/bakaru/](https://www.linkedin.com/in/bakaru/)
-
----
-
-## 🎯 Future Goals
-
-- Improve my skills in **cybersecurity** and **machine learning**
-- Contribute to more **open source projects**
-- Participate in tech conferences and **technical talks**
-
----
-
 ## 🌐 Find Me Online
 
 - [Personal Website](https://bakaru.dev)
