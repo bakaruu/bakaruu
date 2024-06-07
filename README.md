@@ -66,11 +66,6 @@ I am a junior full stack / backend developer passionate about technology and inn
 
 ---
 
-## 📈 GitHub Stats
-
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakaruu&show_icons=true&theme=radical)](https://github.com/bakaruu)
-
----
 
 
 
@@ -91,7 +86,7 @@ I am a junior full stack / backend developer passionate about technology and inn
 
 ## 🌐 Find Me Online
 
-- [Personal Website](https://your-website.com)
+- [Personal Website](https://bakaru.dev)
 - [GitHub](https://github.com/bakaruu)
 - [LinkedIn](https://www.linkedin.com/in/bakaru/)
 
