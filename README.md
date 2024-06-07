@@ -1,9 +1,5 @@
 # Hello! I'm Álvaro Castro 👋
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://your-website.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
-
 ---
 
 ## About Me
