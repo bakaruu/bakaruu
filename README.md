@@ -10,7 +10,6 @@ I am a junior full stack / backend developer passionate about technology and inn
 - **🌱 Learning:** Cybersecurity and Japanese
 - **👯 Looking to collaborate on:** Open source projects and tech startups
 - **💬 Ask me about:** Backend development, microservices, cybersecurity, and design patterns
-- **📫 How to reach me:** [arucastrof@gmail.com](arucastrof@gmail.com)
 - **⚡ Fun fact:** I love extreme sports, learning languages, and traveling. I am fluent in English and Spanish, and currently studying Japanese.
 
 ---
@@ -67,8 +66,6 @@ I am a junior full stack / backend developer passionate about technology and inn
 ## 🌐 Find Me Online
 
 - [Personal Website](https://bakaru.dev)
-- [GitHub](https://github.com/bakaruu)
-- [LinkedIn](https://www.linkedin.com/in/bakaru/)
 
 ---
 
