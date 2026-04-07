@@ -11,7 +11,7 @@ I build the stuff that actually does things. Someone else makes it pretty — al
 
 Check the repos if you don't believe me. Or check the frontend. Actually don't, it has feelings.
 
-→ [bakaru.dev](https://bakaru.dev) · [skate-shop](https://github.com/bakaruu/skate-shop) · [user-management-api](https://github.com/bakaruu/user-management-api) · [financial-dashboard](https://github.com/bakaruu/financial-dashboard)
+→ [bakaru.dev](https://bakaru.dev) 
 
 ---
 
