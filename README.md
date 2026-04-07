@@ -5,13 +5,13 @@ Java backend dev. I speak fluent HTTP, think in hexagons, and break production o
 ```java
 if (frontend) throw new NotMyProblemException("go touch some CSS");
 ```
-Spring Boot · Kafka · PostgreSQL · Redis · Docker · Hexagonal Architecture · DDD · Event-driven
+Spring Boot · Kafka · PostgreSQL · Redis · Docker · Microservices · Hexagonal Architecture · DDD · Event-driven
 
 I build the stuff that actually does things. Someone else makes it pretty — allegedly.
 
 Check the repos if you don't believe me. Or check the frontend. Actually don't, it has feelings.
 
-→ [bakaru.dev](https://bakaru.dev) · [skate-shop](https://github.com/bakaruu/skate-shop) · [user-management-api](https://github.com/bakaruu/user-management-api)
+→ [bakaru.dev](https://bakaru.dev) · [skate-shop](https://github.com/bakaruu/skate-shop) · [user-management-api](https://github.com/bakaruu/user-management-api) · [financial-dashboard](https://github.com/bakaruu/financial-dashboard)
 
 ---
 
