@@ -1,4 +1,4 @@
-# hey, I'm Aru
+# hey, I'm Al or Aru w/e
 
 
 Java backend dev. I speak fluent HTTP, think in hexagons, and break production on Fridays like everyone else.
